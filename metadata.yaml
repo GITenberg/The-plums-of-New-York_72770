@@ -26,6 +26,9 @@ contributor:
     deathdate: 1975
     gutenberg_agent_id: '43171'
     url: http://www.gutenberg.org/2009/agents/43171
+covers:
+- cover_type: archival
+  image_path: 72770-h/images/cover.jpg
 creator:
   author:
     agent_name: Hedrick, U. P.
@@ -36,6 +39,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/34063
     wikipedia: https://en.wikipedia.org/wiki/Ulysses_Prentiss_Hedrick
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72770#The-plums-of-New-York
 gutenberg_issued: '2024-01-21'
 gutenberg_type: Text
 identifiers:
