@@ -1,0 +1,62 @@
+_repo: The-plums-of-New-York_72770
+_version: 0.0.1
+contributor:
+  contributors:
+  - agent_name: Alderman, W. H. (William Horace)
+    alias: Alderman, William Horace
+    birthdate: 1885
+    deathdate: 1985
+    gutenberg_agent_id: '56804'
+    url: http://www.gutenberg.org/2009/agents/56804
+  - agent_name: Dorsey, Maxwell Jay
+    alias: Dorsey, M. J. (Maxwell Jay)
+    birthdate: 1880
+    deathdate: 1966
+    gutenberg_agent_id: '46298'
+    url: http://www.gutenberg.org/2009/agents/46298
+  - agent_name: Taylor, O. M. (Orrin Morehouse)
+    alias: Taylor, Orrin Morehouse
+    birthdate: 1865
+    deathdate: 1932
+    gutenberg_agent_id: '43352'
+    url: http://www.gutenberg.org/2009/agents/43352
+  - agent_name: Wellington, R. (Richard)
+    alias: Wellington, Richard
+    birthdate: 1884
+    deathdate: 1975
+    gutenberg_agent_id: '43171'
+    url: http://www.gutenberg.org/2009/agents/43171
+creator:
+  author:
+    agent_name: Hedrick, U. P.
+    alias: Hedrick, Ulysses Prentiss
+    birthdate: 1870
+    deathdate: 1951
+    gutenberg_agent_id: '34063'
+    url: http://www.gutenberg.org/2009/agents/34063
+    wikipedia: https://en.wikipedia.org/wiki/Ulysses_Prentiss_Hedrick
+description: ''
+gutenberg_issued: '2024-01-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72770'
+language: en
+pgterms:marc905: 20051117135405hedrick
+pgterms:marc906: '1911'
+pgterms:marc907: US
+production_note: Steven Giacomelli, Mark C. Orton and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images produced by Core
+  Historical Literature in Agriculture (CHLA), Cornell University)
+publication_note: '  $aUnited States :$bJ. B. Lyon Company, $c1911.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Report of the New York Agricultural Experiment Station for the year 1910,
+  part II
+subjects:
+- !lcsh 'Plum'
+- !lcsh 'Fruit-culture -- New York (State)'
+- !lcc 'SB'
+- GITenberg
+title: The plums of New York
+url: http://www.gutenberg.org/ebooks/72770
